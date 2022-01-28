@@ -2,7 +2,7 @@
 
 It's not super fast or anything special like that I was just bored
 
-Yoinked the transforms from [this repo](https://github.com/Daniel-Liu-c0deb0t/uwu)
+Yoinked the transformations from [this repo](https://github.com/Daniel-Liu-c0deb0t/uwu)
 
 ## Usage
 1. Compile: `kotlinc uwu.kt`
